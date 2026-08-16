@@ -127,9 +127,9 @@ A secure file transfer system using **AES encryption + RSA key exchange**.
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180"/>
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
 
-<img src="./profile/top-langs.svg" height="180"/>
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
 
 </div>
 ---
