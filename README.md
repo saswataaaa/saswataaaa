@@ -127,10 +127,9 @@ A secure file transfer system using **AES encryption + RSA key exchange**.
 
 <div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saswataaaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswataaaa&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=saswataaaa&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswataaaa&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
