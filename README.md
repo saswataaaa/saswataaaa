@@ -149,16 +149,23 @@ A secure file transfer system using **AES encryption + RSA key exchange**.
 
 ---
 
-# 🐍 My Contributions
+## 🐍 My Contributions
 
 <div align="center">
 
-<p>Watch my contributions get eaten by the snake 🐍</p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./output/github-snake.svg">
-  <img alt="github contribution snake" src="./output/github-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/saswataaaa/saswataaaa/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/saswataaaa/saswataaaa/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/saswataaaa/saswataaaa/output/github-snake.svg"
+  />
 </picture>
 
 </div>
