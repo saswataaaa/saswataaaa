@@ -1,14 +1,181 @@
-<h1 align="center">Hi 👋, I'm Saswata</h1>
-<h3 align="center">A passionate programmer!</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **JS React**
+# 👋 Hi, I'm Saswata
 
-- 📫 How to reach me **saswatatripathy17@gmail.com**
+### 💻 Developer • 🔐 Cybersecurity Enthusiast • 🚀 Problem Solver
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saswata tripathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saswata tripathy" height="30" width="40" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F78C6C&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+things+that+solve+problems.;Full+Stack+Developer;Cybersecurity+Enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br>
+
+<a href="mailto:saswatatripathy17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/saswataaaa">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science student specializing in **Cybersecurity**
+- 💻 Passionate about **Web Development & Software Development**
+- 🔐 Interested in **Cybersecurity, Networking & Secure Applications**
+- 🌱 Currently learning **React & modern web technologies**
+- 🚀 I enjoy building projects that combine **technology + real-world problems**
+- 💡 Always curious, always building, always learning.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,java,js" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🔐 Cybersecurity & Networking
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
+**Tools:** Nmap • Wireshark • OpenSSL • Nessus • OpenVAS • Cisco Packet Tracer
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🔐 MaskMe
+
+A disposable identity platform that allows users to create temporary email IDs, phone numbers and OTPs.
+
+**Tech:** MERN • MongoDB • Node.js • Express
+
+</td>
+
+<td width="50%">
+
+### 🛕 Tirtha
+
+An interactive platform for exploring pilgrimage and heritage locations using maps and 3D visualization.
+
+**Tech:** React • JavaScript • Maps • 3D
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⏳ ChronoVault
+
+A web-based project focused on organizing and managing information through a modern interface.
+
+**Tech:** MERN • React • Node.js
+
+</td>
+
+<td width="50%">
+
+### 🔒 Secure File Transfer
+
+A secure file transfer system using **AES encryption + RSA key exchange**.
+
+**Tech:** Python • AES • RSA
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saswataaaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswataaaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+
+<img src="https://streak-stats.demolab.com?user=saswataaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</a>
+
+</div>
+
+---
+
+# 🐍 My Contributions
+
+<div align="center">
+
+<p>Watch my contributions get eaten by the snake 🐍</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-snake.svg">
+  <img alt="github contribution snake" src="./output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+```text
+React ⚛️
+        ↓
+TypeScript 🔷
+        ↓
+Full Stack Development 🌐
+        ↓
+Cybersecurity 🔐
+        ↓
+Cloud & DevOps ☁️
